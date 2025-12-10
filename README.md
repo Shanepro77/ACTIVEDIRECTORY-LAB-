@@ -1,4 +1,4 @@
-# ACTIVEDIRECTORY-LAB-
+
 # Active Directory Lab
 
 ## Overview
